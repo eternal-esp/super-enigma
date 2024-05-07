@@ -1,0 +1,9 @@
+{
+  "stub": {
+    "version": "1.0"
+  },
+  "loader": {
+    "version": "1.0.0",
+    "link": "https://predexx.cloud/loader/1.0/loader-1.0.0-abcfed.zip"
+  }
+}
